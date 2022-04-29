@@ -1,0 +1,11 @@
+30
+AUTOMARGID 
+bentley bugatti chevrolet chrysler cadillac ferrari audi fiat honda hummer hyundai jaguar mazda lamborghini lexus maserati mclaren mercedes nissan opel peugeot porsche renault seat subaru suzuki tesla toyota volkswagen volvo
+AMETID 
+stjuardess insener juuksur keevitaja hambaarst ajakirjanik keeletoimetaja politseinik arendusjuht barista fotograaf kinnisvaramaakler programmeerija projektijuht poliitik pedagoog ooperilaulja muusikakriitik dirigent bussijuht arhitekt raamatupidaja arheoloog apteeker kassapidaja koreograaf helilooja kuraator illustraator lapsehoidja
+IMETAJAD 
+tiiger hobune alpaka elevant gepard rebane hamster ilves inimene lammas laama merisiga metskits orangutan puuma saarmas sinivaal suslik jaaguar kaelkirjak kobras lendorav metssiga delfiin gorilla panter skunk surikaat leopard pesukaru
+TAIMED 
+tammepuu sinilill gladiool lillhernes pojeng karuputk maikelluke nartsiss karikakar lumikelluke krookus meelespea kadakas kibuvits sarapuu vaevakask arukask jalakas jugapuu pihlakas toomingas vaher remmelgas sookask basiilik lavendel rosmariin sidrunhein petersell murulauk
+KONTORITARBED 
+stepler printer monitor laualamp kalkulaator pastapliiats hiirematt lauatelefon lauaarvuti klaviatuur taskuraamat kontoritool rahadetektor tahvlimarker magnettahvel teritaja kustukumm kalender kaustik kaabel pikendusjuhe pliiatsitops kleeplint nimesilt kaardihoidja tahvlipuhastaja tahvlilapp knopka tahvelarvuti paberiklamber
